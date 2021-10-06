@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-1",
-  "version": "1.0.0",
+  "version": "1.0.0-development",
   "private": true,
   "scripts": {
     "dev": "nuxt",
@@ -25,6 +25,7 @@
     "eslint-plugin-nuxt": "^2.0.0",
     "eslint-plugin-vue": "^7.12.1",
     "postcss": "^8.3.5",
-    "prettier": "^2.3.2"
+    "prettier": "^2.3.2",
+    "semantic-release": "^18.0.0"
   }
 }
